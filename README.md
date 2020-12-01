@@ -5,11 +5,7 @@ MyTask é um pequeno projeto de lista de tarefas. O objetivo é ser um sistema s
 https://micheleliabe.github.io/MyTask/pages/index.html
 
 # Frameworks
-
-Neste projeto, foi utilizado alguns frameworks open source, sendo eles **Bootstrap4!**, **SweetAlert2!**
-https://getbootstrap.com/docs/4.0/getting-started/introduction/
-https://sweetalert2.github.io/
-
+Neste projeto, foi utilizado alguns frameworks open source, sendo eles **Bootstrap4!**, **SweetAlert2!** 
 
 
 # Como utilizar o SweetAlert2
