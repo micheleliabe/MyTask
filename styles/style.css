@@ -1,0 +1,45 @@
+.add-tarefas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.add-tarefas input{
+    width: 84%;
+    margin-bottom: 10px;
+}
+
+.add-tarefas button{
+    width: 15%;
+    margin-bottom: 10px;
+}
+
+button:hover{
+    transition: 800ms;
+    background-color:  rgba(145, 9, 43, 0.521);
+}
+
+input{
+    background-color: rgba(206, 231, 255, 0.384);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+
+.span{
+    display: flex;
+    margin: 10px 0px;
+    padding-left: 5px;
+    border-radius: 8px;
+    background-color: rgba(166, 173, 214, 0.158);
+    border: solid 1px white;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 400;
+    color: white;
+}
+
+
+span button{
+    margin: 5px;
+    padding: 0px 5px;
+}
