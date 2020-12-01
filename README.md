@@ -8,6 +8,10 @@ https://micheleliabe.github.io/MyTask/pages/index.html
 Neste projeto, foi utilizado alguns frameworks open source, sendo eles **Bootstrap4!**, **SweetAlert2!** 
 
 
+https://sweetalert2.github.io/
+
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
 # Como utilizar o SweetAlert2
 Primeiro adicione uma referencia à biblioteca utilizando uma das opções abaixo:
 
