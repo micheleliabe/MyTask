@@ -4,6 +4,9 @@ MyTask é um pequeno projeto de lista de tarefas. O objetivo é ser um sistema s
 
 https://micheleliabe.github.io/MyTask/pages/index.html
 
+# Armazenamento
+Os dados são salvos via localstore
+
 # Frameworks
 Neste projeto, foi utilizado alguns frameworks open source, sendo eles **Bootstrap4!**, **SweetAlert2!** 
 
