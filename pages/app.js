@@ -84,7 +84,7 @@ document.addEventListener('click',function(e){
 
 //Seleciona todos os itens do tipo span e salva a descrição no armazenamento local
 function salvarTarefas(){
-    const listaTarefas = tarefas.querySelectorAll('span')
+    const listaTarefas = tarefas.querySelectorAll('div')
     const ArrayTarefas = []
 
     for(let tarefa of listaTarefas){
