@@ -104,7 +104,7 @@ function adicionaTarefasSalvas() {
     const tarefas = localStorage.getItem('tarefas')
     const listadeTarefas = JSON.parse(tarefas)
 
-    for (let tarefa in listadeTarefas) {
+    for (let tarefa of listadeTarefas) {
         criaTarefa(tarefa)
     }
 }
