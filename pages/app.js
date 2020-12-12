@@ -104,7 +104,7 @@ function adicionaTarefasSalvas() {
     const tarefas = localStorage.getItem('tarefas')
     const listadeTarefas = JSON.parse(tarefas)
     //Loop funciona local
-    for (let tarefa of listadeTarefas) {
-        criaTarefa(tarefa)
+    for (let tarefa in listadeTarefas) {
+        criaTarefa(listadeTarefas[tarefa])
     }
 }
